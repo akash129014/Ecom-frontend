@@ -6,7 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 const AppState = (props) => {
   //  const url = "http://localhost:1000/api";
-  const url = "https://ecom-backend-07se.onrender.com";
+  const url = "https://ecom-backend-07se.onrender.com/api";
 
 
   const [products, setProducts] = useState([]);
